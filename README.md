@@ -3,7 +3,7 @@
 ## Olá! Eu sou o Felipe 👋
 - 🎓 Sou formado em <strong>Análise e Desenvolvimento de Sistema</strong> pelo Centro Universitário de Maringá (Unicesumar - 2020).
 - 📚 Atualmente estou participando do <strong>Bootcamp Catalisa Lab</strong> promovido pelo Centro Universitário Integrado de Campo Mourão - PR.
-- 🎯 Esse ano tenho com objetivo aprender as tecnologias necessárias para entrar no mercado de trabalho como <strong>Programador front-end</strong>.
+- 🎯 Esse ano tenho com objetivo aprender as tecnologias necessárias para entrar no mercado de trabalho como <strong>Programador</strong>.
 
 <div style="display: inline_block"><br>
   <p align="left">
