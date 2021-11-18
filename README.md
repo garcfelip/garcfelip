@@ -15,7 +15,12 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+    <img height="40" src="https://user-images.githubusercontent.com/61193946/142358831-77cdd207-6101-41d5-bbf0-7f4539027a8b.png">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img height="40" src="https://user-images.githubusercontent.com/61193946/142360176-126b3b12-ba98-4d1e-ae79-e1c163e8c21c.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  
 </div>
 
 ## Meus Contatos :iphone:
@@ -42,11 +47,6 @@
         height="165"
         src="https://github-readme-stats.vercel.app/api?username=garcfelip&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </a>  
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=garcfelip&layout=compact&langs_count=7&theme=radical"/>
-    </a> 
   </p>
 </div>
 
