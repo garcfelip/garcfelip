@@ -6,7 +6,7 @@
 - 🎯 Esse ano tenho com objetivo aprender as tecnologias necessárias para entrar no mercado de trabalho como <strong>Programador</strong>.
 </br>
 
-## Minhas Skills 🔧:
+## Minhas Skills (Aprendendo) 🔧:
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
