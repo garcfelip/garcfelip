@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Olá! Eu Sou o Felipe 👋
-- 🎓 Sou formado em <strong>Análise e Desenvolvimento de Sistema</strong> pelo Centro Universitário de Maringá (Unicesumar - 2020).
+- 🎓 Sou formado em <strong>Análise e Desenvolvimento de Sistema</strong> pelo Centro Universitário de Maringá (Unicesumar - 2021).
 </br>
 
 ## Minhas Skills (Aprendendo) 🔧:
