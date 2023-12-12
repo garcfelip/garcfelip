@@ -2,7 +2,7 @@
 
 ## **Sobre Mim**
 
-Olá! Meu nome é **Felipe**, e sou um apaixonado por tecnologia e programação. Atualmente, trabalho como **analista e desenvolvedor de sistemas** em uma **Software House**. 🖥️
+Meu nome é **Felipe**, e sou um apaixonado por tecnologia e programação. Atualmente, trabalho como **analista e desenvolvedor de sistemas** em uma **Software House**. 🖥️
 
 Com **mais de dois anos de experiência** na área de programação, tive a oportunidade de mergulhar em diversos projetos desafiadores. Durante essa jornada, aprendi e me aprimorei em várias tecnologias. 🚀
 
