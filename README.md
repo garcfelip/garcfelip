@@ -8,7 +8,7 @@ Com **mais de dois anos de experiência** na área de programação, tive a op
 
 Minha **stack principal** é baseada em **Java**, com o poderoso **Spring Framework** impulsionando minhas aplicações. No entanto, não paro por aí! Também sou fluente em **Kotlin**, **JavaScript** e **SQL (PL/SQL)**. 💡
 
-Acredito que o aprendizado contínuo é essencial para o sucesso na área de tecnologia. Por isso, estou sempre **em busca de conhecimento**. Seja explorando novas linguagens, frameworks ou metodologias, estou pronto para contribuir em **projetos inovadores**. 🌟
+Acredito que o aprendizado contínuo é essencial para o sucesso na área de tecnologia. Por isso, estou sempre **em busca de conhecimento**. 🌟
 
 Se você também é um entusiasta do mundo tech, vamos trocar ideias! Estou sempre aberto a novas conexões e desafios emocionantes. 🤝
 
