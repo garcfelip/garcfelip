@@ -40,11 +40,11 @@ Se você também é um entusiasta do mundo tech, vamos trocar ideias! Estou semp
 
 ## **Projetos**
 
-Aqui estão alguns dos projetos em que trabalhei até agora:
-
 1. [VollMed-API](https://github.com/garcfelip/VollMed-API): Nossa API (**RESTful**) é o coração do ecossistema VollMed, construída com a linguagem Java (versão 17) e aproveitando o poder do Spring Framework.
-2. [VollMed-Mobile](https://github.com/garcfelip/VollMed-Mobile) Em construção
-3. [VollMed-Web](https://github.com/garcfelip/VollMed-Web): Em construção
+<!--   
+3. [VollMed-Mobile](https://github.com/garcfelip/VollMed-Mobile) Em construção
+4. [VollMed-Web](https://github.com/garcfelip/VollMed-Web): Em construção
+-->
 
 ## **Contatos**
 Estou sempre aberto a colaborações e oportunidades de aprendizado. Se você deseja entrar em contato comigo, pode fazê-lo por meio das seguintes opções:
